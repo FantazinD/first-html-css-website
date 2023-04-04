@@ -840,7 +840,7 @@ a {
 
 .feature__content img {
     height: 230px;
-    width: 230x;
+    width: 230px;
 }
 
 @media screen and (min-width: 768px) {
@@ -953,10 +953,6 @@ a {
 /* Partnership Block */
 
 @media screen and (min-width: 768px) {
-    .grid--1x3 > .block__header {
-        grid-column: 1 / span 3;
-    }
-
     .grid--1x3 > .hero__content {
         grid-column: 1 / span 2;
     }
